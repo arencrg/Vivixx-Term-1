@@ -1,0 +1,101 @@
+  @import url('https://fonts.googleapis.com/css?family=Roboto|Rubik:400,900');
+
+  h1 {
+    color:#ffffff;
+    text-align: center;
+    font: 900 32px 'Rubik', sans-serif;
+    letter-spacing: 10px;
+  }
+  h1:hover {
+    background-color: #ffffff;
+    color: #000000
+  }
+  h2 {
+    font: 400 26px 'Rubik', sans-serif;
+    color: white;
+    text-align: center;
+  }
+  h3 {
+    font: 400 22px 'Rubik', sans-serif;
+    color: white;
+    width: 70%;
+  }
+  p {
+    color: #ffffff;
+    font: 16px 'Roboto', sans-serif;
+    line-height: 18px;
+    text-align: center;
+    padding: 2% 4% 2% 4%;
+  }
+  .break {
+    background-color: #ffffff;
+    padding: 2px;
+    margin-bottom: 10px;
+  }
+  .byline {
+    color: #ffffff;
+    font: 14px 'Helvetica Neue', sans-serif;
+    text-align: center;
+  }
+  img {
+    margin: 2% 0.5% 2% 0.5%;
+    display: block;
+  }
+  .sets {
+    float: left;
+    margin: 0 1.5%;
+    width: 30%;
+  }
+  ul {
+    float: left;
+    width: 100%;
+    padding: 12px 12px 12px 12px;
+    list-style-type: none;
+  }
+  a {   color: #ffffff;}
+  .linksbar {
+      float: left;
+      width: 22%;
+      text-decoration: none;
+      color: #ff3300;
+      background-color: #66cccc;
+      padding: 12px 12px 12px 12px;
+      border-right: 5px solid white;
+      border-left: 5px solid white;
+  }
+  a:hover {
+      color: white;
+      background-color: #ff3300;
+  }
+
+  li {
+    display: inline;
+    font: 400 18px 'Rubik', sans-serif;
+    text-align: center;
+  }
+
+  table {
+      width: 85%;
+      border-collapse: collapse;
+      vertical-align: middle;
+  }
+
+  th, td {
+      font: 16px 'Roboto', sans-serif;
+      color: black;
+      background-color: white;
+      line-height: 22px;
+      opacity: 0.8;
+      padding: 15px 15px 15px 15px;
+  }
+
+  table, th, td {
+      border: 0;
+  }
+div{
+  display: block;
+}
+  body {
+    background: linear-gradient(to right bottom, #006666, #009999);
+  }
+</style>

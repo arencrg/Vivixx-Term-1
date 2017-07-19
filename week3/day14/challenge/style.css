@@ -1,0 +1,215 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Condensed|Oswald|Timmana|Lora');
+
+body {
+  background: white;
+  color: black;
+  font-family: 'Oswald', sans-serif;
+  vertical-align: middle;
+  padding-bottom: 20px;
+}
+
+header {
+padding: 15px 15px 15px 15px;
+background-image: url("images/fog.jpg");
+height: 640px;
+background-attachment: fixed;
+background-position: center;
+background-repeat: no-repeat;
+background-size: cover; /*parallax*/
+text-align: center;
+}
+
+h1 {display: none;}
+h2 {display:none;}
+h3 {
+  color: white;
+  font: 25px 'Timmana', bold;
+  line-height: 60px;
+  letter-spacing: 3px;
+  text-indent: 20px;
+  background-color: black;
+}
+.resources, .archives, .select {
+  text-align: center;
+  background-color: #cbc5c1;
+  font-family: 'Oswald', sans-serif;
+}
+
+p {
+	margin-top: 15px;
+	text-align: justify;
+  font-family: 'Lora', serif;
+  font-size: 16px;
+  line-height: 18px;
+	}
+
+div {
+  line-height: 24px;
+    padding-bottom: 20px;
+}
+
+.summary {
+  clear: both;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  color: white;
+  background-color:  #a2aab0;
+  vertical-align: middle;
+  width: 65%;
+  margin: 60px 0 20px 0;
+}
+.summary p {
+  padding-left: 60px;
+}
+
+.preamble {
+  clear: both;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  float: right;
+  color: white;
+  background-color: #E3BAB3;
+  width: 65%;
+  margin: 20px 0 20px 0;
+}
+.preamble p {
+  padding-right: 60px;
+}
+
+.explanation {
+  clear: both;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  clear: both;
+  float: left;
+  width: 65%;
+  color: white;
+  margin: 20px 0 20px 0;
+  background-color: #849974;
+}
+.explanation p {
+  padding-left: 60px;
+}
+.explanation h3 {
+  text-align: right;
+  padding-right: 20px;
+}
+
+.participation {
+  clear: both;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  clear: both;
+  float: right;
+  color: white;
+  background-color: #a2aab0;
+  width: 65%;
+  margin: 20px 0 20px 0;
+}
+.participation p {
+  padding-right: 60px;
+}
+
+
+.benefits {
+  clear: both;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 15px;
+  clear: both;
+  float: left;
+  width: 65%;
+  color: white;
+  margin: 20px 0 20px 0;
+  background-color: #E3BAB3;
+}
+.benefits p {
+  padding-left: 60px;
+}
+.benefits h3 {
+  text-align: right;
+  padding-right: 20px;
+}
+
+
+.requirements {
+  clear: both;
+  padding-top: 15px;
+  padding-left: 15px;
+  padding-bottom: 15px;
+  clear: both;
+  float: right;
+  color: white;
+  background-color: #849974;
+  width: 65%;
+  margin: 20px 0 60px 0;
+}
+.requirements p {
+  padding-right: 60px;
+}
+
+
+/* ---*/
+aside {
+    clear: both;
+}
+
+.design-selection {
+  float: left;
+  margin: 0 1.5%;
+  width: 30%;
+  background-color:#3e3e3b;
+  color: white;
+}
+
+.design-archives {
+  float: left;
+  margin: 0 1.5%;
+  width: 30%;
+  background-color:#3e3e3b;
+  color: white;
+}
+
+.zen-resources {
+  float: left;
+  margin: 0 1.5%;
+  width: 30%;
+  background-color:#3e3e3b;
+  color: white;
+}
+
+ul {
+  padding: 15px 15px 15px 15px;
+  font-family: 'Roboto Condensed', sans-serif;
+}
+
+/*#3e3e3b/ gunmetal #cbc5c1*/
+
+
+a {
+  color: #ecc7c0;
+  text-decoration:  none;
+}
+
+a:hover {
+    color: white;
+    text-decoration:  none;
+    font-weight: bolder;
+}
+
+a:visited {
+    color: black;
+    text-decoration: line-through;
+    font-weight: normal;
+}
+
+
+
+footer {
+  position: fixed;
+
+}
