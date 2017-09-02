@@ -1,4 +1,4 @@
-#VIVIXX
+# VIVIXX
 
 These are all of the tasks I finished for the Vivixx Coding Bootcamp Term 1 (5 June 2017 - 7 July 2017), which was an intro to Ruby programming and basic HTML and CSS.
 
@@ -19,7 +19,7 @@ The Week 1 folder isn't very organized, but it /is/ very literal.
 
 - ex8.rb - Exercise 8 from Learn Ruby The Hard Way
 
-- firstday.rb and trial.rb - Literally the first day of class, trial.rb is what I did in the afternoon, just to try out how gets.chomp works.
+- firstday.rb and trial.rb - Literally the first day of class, trial.rb is what I did in the afternoon, just to try out how gets.chomp works
 
 - gbv1.rb and gbv2.rb - Two versions of the Good Burger program, a small cashier-type program
 
@@ -86,7 +86,6 @@ More literal folder and file names...
 ## WEEK 4
 
 - day16 - Trying out more layouts
-
 
 ## NOTES:
 
